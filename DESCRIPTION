@@ -1,0 +1,15 @@
+Package: Meta4Design
+Type: Package
+Title: Metaheuristic algorithms for experimental design
+Version: 0.1.5
+Date: 2024-7-8
+Author: Hongquan Xu
+Maintainer: Hongquan Xu <hqxu@stat.ucla.edu>
+Description: Metaheuristic Solutions for Order-of-Addition Design Problems. 
+    Stokes, Z., Wong, W.-K. and Xu, H. (2023). Journal of Computational and Graphical Statistics.
+    Algorithms include DE, PSO, GA, TA and SA.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.10), gtools, laGP, parallel
+LinkingTo: Rcpp
+NeedsCompilation: yes
+Packaged: 2024-06-11 19:33:16 UTC; hongquanxu
